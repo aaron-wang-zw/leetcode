@@ -1,0 +1,6 @@
+.vs
+.cache
+.dll
+.pdb
+bin
+obj
